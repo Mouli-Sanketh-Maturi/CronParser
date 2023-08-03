@@ -1,0 +1,3 @@
+name: CronParser
+packages:
+- path: org.example
